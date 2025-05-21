@@ -1,0 +1,13 @@
+{
+  "textFontFamily": "M PLUS 1",
+  "baseFontSize": 14,
+  "monospaceFontFamily": "M PLUS 1",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Ats4u-ColordHeadings",
+    "ats4u-no-strikethrough-for-checkboxes",
+    "ats4u-ColordHeadings",
+    "ats4u-blockquote-indent"
+  ],
+  "showRibbon": true
+}

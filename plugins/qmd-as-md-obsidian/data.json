@@ -1,0 +1,6 @@
+{
+  "quartoPath": "quarto",
+  "enableQmdLinking": true,
+  "quartoTypst": "",
+  "emitCompilationLogs": true
+}

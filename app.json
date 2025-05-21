@@ -1,0 +1,16 @@
+{
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "livePreview": true,
+  "useTab": false,
+  "readableLineLength": false,
+  "spellcheckDictionary": [
+    "aaa"
+  ],
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./20250521_files",
+  "newFileFolderPath": "./",
+  "showIndentGuide": true
+}

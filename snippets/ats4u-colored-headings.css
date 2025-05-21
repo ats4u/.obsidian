@@ -1,0 +1,60 @@
+/* .cm-header-1 { color: #f37b84; font-size : 8px !important; border : red 1px solid; } */
+/* .cm-header-2 { color: #ffd98c; font-size : 8px !important; border : red 1px solid; } */
+/* .cm-header-3 { color: #9ff369; font-size : 8px !important; border : red 1px solid; } */
+/* .cm-header-4 { color: #59d5c4; font-size : 8px !important; border : red 1px solid; } */
+/* .cm-header-5 { color: #2a8aff; font-size : 8px !important; border : red 1px solid; } */
+/* .cm-header-6 { color: #b99aff; font-size : 8px !important; border : red 1px solid; } */
+
+body {
+/*
+  --h1-color: red;
+  --h2-color: orange;
+  --h3-color: yellow;
+  --h4-color: green;
+  --h5-color: blue;
+  --h6-color: pink;
+ */
+
+  --header-color : blue;
+
+  --h1-color: var( --header-color );
+  --h2-color: var( --header-color );
+  --h3-color: var( --header-color );
+  --h4-color: var( --header-color );
+  --h5-color: var( --header-color );
+  --h6-color: var( --header-color );
+
+  --header-size : 1.2em;
+  --header-size-step : calc( 1em / 50 );
+
+  --body-size: 0.2em;
+  --h1-size: calc( var( --header-size ) + ( var( --header-size-step ) * 6 ) );
+  --h2-size: calc( var( --header-size ) + ( var( --header-size-step ) * 5 ) );
+  --h3-size: calc( var( --header-size ) + ( var( --header-size-step ) * 4 ) );
+  --h4-size: calc( var( --header-size ) + ( var( --header-size-step ) * 3 ) );
+  --h5-size: calc( var( --header-size ) + ( var( --header-size-step ) * 2 ) );
+  --h6-size: calc( var( --header-size ) + ( var( --header-size-step ) * 1 ) );
+
+  --font-text-size: 2em; 
+}
+
+
+.markdown-preview-view {
+  max-width: none !important;
+  width: 100% !important;
+  white-space: normal !important;
+  word-wrap: break-word;
+}
+.markdown-source-view {
+  max-width: none !important;
+  width: 100% !important;
+  white-space: normal !important;
+  word-wrap: break-word;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+/* Preview mode: match blockquote indent to bullet lists */
+.markdown-preview-view blockquote {
+  margin-inline-start: 1.8em; /* match default bullet indent */
+  padding-inline-start: 0;    /* remove extra padding */
+  border-left: none;          /* optional: remove default border */
+}
+
+/* Editor mode (Live Preview): match blockquote indent to bullet lists */
+.cm-s-obsidian .HyperMD-quote {
+  padding-left: 1.8em;        /* matches bullet list indent */
+  border-left: none;          /* optional: remove left border */
+}
+
+/* Ensure consistent wrapped indentation inside blockquotes (Editor mode) */
+.cm-s-obsidian .HyperMD-quote .cm-line {
+  padding-left: 0 !important;
+  text-indent: 0 !important;
+}
