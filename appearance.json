@@ -7,7 +7,8 @@
     "Ats4u-ColordHeadings",
     "ats4u-no-strikethrough-for-checkboxes",
     "ats4u-ColordHeadings",
-    "ats4u-blockquote-indent"
+    "ats4u-blockquote-indent",
+    "ats4u-colored-headings"
   ],
   "showRibbon": true
 }

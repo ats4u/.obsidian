@@ -3,7 +3,6 @@
   "templater-obsidian",
   "obsidian-rollover-daily-todos",
   "rich-text-editor-shortcuts",
-  "obsidian-quiet-outline",
   "quarto-exporter",
   "qmd-as-md-obsidian",
   "obsidian-open-in-other-editor",
@@ -17,5 +16,6 @@
   "calendar",
   "better-export-pdf",
   "advanced-debug-mode",
-  "markdown-attributes"
+  "markdown-attributes",
+  "obsidian-quiet-outline"
 ]
