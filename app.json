@@ -12,5 +12,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./20250521_files",
   "newFileFolderPath": "./",
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "promptDelete": false
 }

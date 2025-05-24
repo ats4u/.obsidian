@@ -9,6 +9,78 @@
           "ctime": 1747317578599,
           "path": "as.md",
           "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1748065413196,
+          "items": [],
+          "title": "attachments"
+        },
+        {
+          "type": "group",
+          "ctime": 1748065413196,
+          "items": [],
+          "title": "templates"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "_quarto.yml",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "banner.html",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "include-files.lua",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "index.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "negative-groove-theory.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "styles.css",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "tatenori.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "theme.scss",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "theme-dark.scss",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748065413196,
+          "path": "theme-light.scss",
+          "subpath": "#^-"
         }
       ],
       "title": "sortspec"
